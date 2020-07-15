@@ -11,7 +11,7 @@ body {
   font-family: "Poppins";
   font-weight: 400;
   color: #a1a1a1;
-  font-size: 12px;
+  font-size: 14px;
   background-color: #fafafa;
 }
 
@@ -61,6 +61,7 @@ body {
   grid-gap: 8% 3%;
 }
 .card-container .card {
+  height: 200px;
   background-color: #ffffff;
   display: flex;
   padding: 25px;

@@ -30,7 +30,7 @@ body {
   font-family: "Poppins";
   font-weight: 400;
   color: rgb(161, 161, 161);
-  font-size: 12px;
+  font-size: 14px;
   background-color: $background-color;
 }
 
@@ -77,6 +77,7 @@ body {
   grid-template-rows: 23% 23% 23% 23%;
   grid-gap: 8% 3%;
   .card {
+      height:200px;
     background-color: #ffffff;
     display: flex;
     padding: 25px;
